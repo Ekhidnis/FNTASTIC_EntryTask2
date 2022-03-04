@@ -1481,3 +1481,935 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.04-07.30.31:576][690]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
 [2022.03.04-07.30.31:576][690]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
 [2022.03.04-07.30.31:576][690]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.34.05:233][690]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.04-07.34.05:233][690]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.04-07.34.08:302][690]LogSlate: Window 'Save Content' being destroyed
+[2022.03.04-07.34.08:416][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.03.04-07.34.08:428][690]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMapDE7B174D40D6F1A199B0E2B3EA90E83E.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.04-07.34.08:435][690]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.057
+[2022.03.04-07.34.16:446][690]LogSlate: Window 'Submit Files' being destroyed
+[2022.03.04-07.34.16:463][691]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.03.04-07.34.16:463][691]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.04-07.34.17:834][839]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP64463A1C4FDEB76311F12989FAB7C244.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.34.17:843][839]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.34.17:843][839]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.34.26:114][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.03.04-07.34.26:126][776]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMapCDFED66C41A99EA3DC4922A85D3A81A4.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.04-07.34.26:351][776]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMap_BuiltDataC5F0EDDF458F5797EA77EEB4FB23AFDA.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.04-07.34.26:358][776]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-07.34.26:358][776]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.04-07.34.26:358][776]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.04-07.34.26:770][822]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.04-07.34.26:774][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.04-07.34.26:774][822]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2022, 21:34:26)
+[2022.03.04-07.34.26:817][822]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.34.26:820][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002334s)
+[2022.03.04-07.34.26:820][822]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.04-07.34.26:820][822]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2022.03.04-07.34.26:820][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.003068s)
+[2022.03.04-07.34.26:832][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.03.04-07.34.26:832][822]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.03.04-07.34.26:832][822]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.04-07.34.26:832][822]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.04-07.34.26:832][822]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.04-07.34.26:832][822]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.04-07.34.26:832][822]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.04-07.34.26:832][822]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.04-07.34.26:832][822]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.04-07.34.26:832][822]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.04-07.34.26:832][822]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.04-07.34.26:832][822]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.04-07.34.26:835][822]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.04-07.34.26:835][822]LogAudioMixer: Display: 1: FrontRight
+[2022.03.04-07.34.26:851][822]LogAudioMixer: Display: Using Audio Device Наушники (2- Xonar SoundCard)
+[2022.03.04-07.34.26:851][822]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.04-07.34.26:851][822]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.04-07.34.26:851][822]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.04-07.34.26:851][822]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.04-07.34.26:851][822]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.04-07.34.26:851][822]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.04-07.34.26:861][822]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.04-07.34.26:861][822]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.04-07.34.26:861][822]LogInit: FAudioDevice initialized.
+[2022.03.04-07.34.26:861][822]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonExampleMap'.
+[2022.03.04-07.34.26:872][822]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.04-07.34.26:873][822]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.04-14.34.26
+[2022.03.04-07.34.26:873][822]LogWorld: Bringing up level for play took: 0.000931
+[2022.03.04-07.34.26:874][822]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.03.04-07.34.26:875][822]PIE: Server logged in
+[2022.03.04-07.34.26:875][822]PIE: Play in editor total start time 0.102 seconds.
+[2022.03.04-07.34.30:574][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.34.30:574][261]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.34.30:574][261]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.34.30:574][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.34.30:584][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.04-07.34.30:589][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.34.30:600][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.34.30:600][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.34.30:601][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.34.30:614][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.03.04-07.34.30:676][263]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.03.04-07.34.36:065][869]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.35.17:053][635]LogMaterial: Display: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2022.03.04-07.35.17:053][635]LogMaterial: Warning: [AssetLog] C:\Users\PC1\Documents\GitHub\FNTASTIC_EntryTask2\FNTASTIC_EntryTask2\TurtleSpawners\TurtleSpawners\Content\MobileStarterContent\Particles\Materials\M_explosion_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.04-07.35.17:053][635]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.03.04-07.35.17:057][635]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2022.03.04-07.35.17:057][635]LogMaterial: Warning: [AssetLog] C:\Users\PC1\Documents\GitHub\FNTASTIC_EntryTask2\FNTASTIC_EntryTask2\TurtleSpawners\TurtleSpawners\Content\MobileStarterContent\Particles\Materials\M_Burst.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.04-07.35.17:057][635]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.04-07.35.17:058][635]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2022.03.04-07.35.17:058][635]LogMaterial: Warning: [AssetLog] C:\Users\PC1\Documents\GitHub\FNTASTIC_EntryTask2\FNTASTIC_EntryTask2\TurtleSpawners\TurtleSpawners\Content\MobileStarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.04-07.35.17:058][635]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.04-07.35.17:058][635]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.03.04-07.35.46:321][ 56]BlueprintLog: New page: Compile TurtleSpawner_Spawner_BP
+[2022.03.04-07.35.46:350][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.03.04-07.35.47:044][125]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Spawner_BP7657C15740020263BB44D38F17259303.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Spawner_BP.uasset'
+[2022.03.04-07.35.47:054][125]AssetCheck: New page: Asset Save: TurtleSpawner_Spawner_BP
+[2022.03.04-07.35.47:054][125]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.35.52:450][743]BlueprintLog: New page: Compile TurtleSpawner_Spawner_BP
+[2022.03.04-07.35.52:480][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.03.04-07.35.52:874][776]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Spawner_BP082C59954E9B3F2F716F11A9310A393B.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Spawner_BP.uasset'
+[2022.03.04-07.35.52:882][776]AssetCheck: New page: Asset Save: TurtleSpawner_Spawner_BP
+[2022.03.04-07.35.52:882][776]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.36.05:082][222]BlueprintLog: New page: Compile TurtleSpawner_Spawner_BP
+[2022.03.04-07.36.05:111][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.03.04-07.36.05:526][257]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Spawner_BP87E0BCC04896EE95082365A98E434265.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Spawner_BP.uasset'
+[2022.03.04-07.36.05:534][257]AssetCheck: New page: Asset Save: TurtleSpawner_Spawner_BP
+[2022.03.04-07.36.05:534][257]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.36.06:359][353]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.04-07.36.06:363][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.04-07.36.06:363][353]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2022, 21:36:06)
+[2022.03.04-07.36.06:388][353]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.36.06:390][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002405s)
+[2022.03.04-07.36.06:391][353]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.04-07.36.06:391][353]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2022.03.04-07.36.06:391][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.003110s)
+[2022.03.04-07.36.06:405][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.03.04-07.36.06:406][353]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.03.04-07.36.06:406][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.04-07.36.06:406][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.04-07.36.06:406][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.04-07.36.06:406][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.04-07.36.06:406][353]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.04-07.36.06:406][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.04-07.36.06:406][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.04-07.36.06:406][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.04-07.36.06:406][353]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.04-07.36.06:406][353]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.04-07.36.06:409][353]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.04-07.36.06:409][353]LogAudioMixer: Display: 1: FrontRight
+[2022.03.04-07.36.06:423][353]LogAudioMixer: Display: Using Audio Device Наушники (2- Xonar SoundCard)
+[2022.03.04-07.36.06:423][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.04-07.36.06:423][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.04-07.36.06:423][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.04-07.36.06:424][353]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.04-07.36.06:424][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.04-07.36.06:424][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.04-07.36.06:434][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.04-07.36.06:434][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.04-07.36.06:434][353]LogInit: FAudioDevice initialized.
+[2022.03.04-07.36.06:434][353]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonExampleMap'.
+[2022.03.04-07.36.06:442][353]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.04-07.36.06:443][353]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.04-14.36.06
+[2022.03.04-07.36.06:443][353]LogWorld: Bringing up level for play took: 0.000910
+[2022.03.04-07.36.06:443][353]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.03.04-07.36.06:444][353]PIE: Server logged in
+[2022.03.04-07.36.06:445][353]PIE: Play in editor total start time 0.082 seconds.
+[2022.03.04-07.36.10:789][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.36.10:790][866]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.36.10:790][866]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.36.10:790][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.36.10:797][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.04-07.36.10:802][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.36.10:814][866]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.04-07.36.10:814][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.36.10:815][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.36.10:826][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.36.10:828][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.03.04-07.36.10:865][867]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.03.04-07.36.19:306][871]BlueprintLog: New page: Compile TurtleSpawner_Spawner_BP
+[2022.03.04-07.36.19:332][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.03.04-07.36.19:910][926]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Spawner_BP46710F48408B56B2AA025B84DC1F5014.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Spawner_BP.uasset'
+[2022.03.04-07.36.19:920][926]AssetCheck: New page: Asset Save: TurtleSpawner_Spawner_BP
+[2022.03.04-07.36.19:920][926]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.36.20:747][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.04-07.36.20:750][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.04-07.36.20:750][ 16]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2022, 21:36:20)
+[2022.03.04-07.36.20:785][ 16]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.36.20:788][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002740s)
+[2022.03.04-07.36.20:788][ 16]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.04-07.36.20:788][ 16]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2022.03.04-07.36.20:788][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.003488s)
+[2022.03.04-07.36.20:803][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.03.04-07.36.20:803][ 16]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.03.04-07.36.20:803][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.04-07.36.20:803][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.04-07.36.20:803][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.04-07.36.20:803][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.04-07.36.20:803][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.04-07.36.20:803][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.04-07.36.20:803][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.04-07.36.20:803][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.04-07.36.20:804][ 16]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.04-07.36.20:804][ 16]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.04-07.36.20:806][ 16]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.04-07.36.20:806][ 16]LogAudioMixer: Display: 1: FrontRight
+[2022.03.04-07.36.20:820][ 16]LogAudioMixer: Display: Using Audio Device Наушники (2- Xonar SoundCard)
+[2022.03.04-07.36.20:820][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.04-07.36.20:820][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.04-07.36.20:820][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.04-07.36.20:820][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.04-07.36.20:820][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.04-07.36.20:820][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.04-07.36.20:831][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.04-07.36.20:831][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.04-07.36.20:831][ 16]LogInit: FAudioDevice initialized.
+[2022.03.04-07.36.20:831][ 16]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonExampleMap'.
+[2022.03.04-07.36.20:836][ 16]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.04-07.36.20:837][ 16]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.04-14.36.20
+[2022.03.04-07.36.20:837][ 16]LogWorld: Bringing up level for play took: 0.000912
+[2022.03.04-07.36.20:837][ 16]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.03.04-07.36.20:838][ 16]PIE: Server logged in
+[2022.03.04-07.36.20:839][ 16]PIE: Play in editor total start time 0.089 seconds.
+[2022.03.04-07.36.26:526][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.36.26:526][694]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.36.26:526][694]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.36.26:526][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.36.26:535][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.04-07.36.26:540][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.36.26:552][694]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.04-07.36.26:552][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.36.26:553][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.36.26:564][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.36.26:566][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.03.04-07.36.26:628][696]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.03.04-07.36.27:943][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.03.04-07.36.27:951][843]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMapAECBD9D3486FC4AA8AFB48983FE5CFC0.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.04-07.36.28:220][843]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMap_BuiltData1B0C67B54CA2D3278569AFB13A623FCC.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.04-07.36.28:227][843]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-07.36.28:227][843]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.04-07.36.28:227][843]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.04-07.36.34:785][558]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/MobileStarterContent/Particles/P_Explosion.P_Explosion
+[2022.03.04-07.36.34:794][558]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2022.03.04-07.36.56:261][ 46]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/P_ExplosionCD947E174AAD8535355EFFAD3CB2822C.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/MobileStarterContent/Particles/P_Explosion.uasset'
+[2022.03.04-07.36.56:272][ 46]AssetCheck: New page: Asset Save: P_Explosion
+[2022.03.04-07.36.56:272][ 46]LogContentValidation: Display: Validating ParticleSystem /Game/MobileStarterContent/Particles/P_Explosion.P_Explosion
+[2022.03.04-07.36.57:122][144]LogCascade: Quitting Cascade. FXSystem=0x000002848D0B3070
+[2022.03.04-07.36.57:174][144]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.36.57:174][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.36.58:667][318]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.04-07.36.58:670][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.04-07.36.58:670][318]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2022, 21:36:58)
+[2022.03.04-07.36.58:704][318]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.36.58:707][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002551s)
+[2022.03.04-07.36.58:707][318]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.04-07.36.58:707][318]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2022.03.04-07.36.58:707][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.003275s)
+[2022.03.04-07.36.58:743][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.03.04-07.36.58:744][318]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.03.04-07.36.58:744][318]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.04-07.36.58:744][318]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.04-07.36.58:744][318]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.04-07.36.58:744][318]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.04-07.36.58:744][318]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.04-07.36.58:744][318]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.04-07.36.58:744][318]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.04-07.36.58:744][318]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.04-07.36.58:744][318]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.04-07.36.58:744][318]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.04-07.36.58:747][318]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.04-07.36.58:747][318]LogAudioMixer: Display: 1: FrontRight
+[2022.03.04-07.36.58:761][318]LogAudioMixer: Display: Using Audio Device Наушники (2- Xonar SoundCard)
+[2022.03.04-07.36.58:761][318]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.04-07.36.58:761][318]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.04-07.36.58:761][318]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.04-07.36.58:762][318]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.04-07.36.58:762][318]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.04-07.36.58:762][318]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.04-07.36.58:772][318]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.04-07.36.58:772][318]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.04-07.36.58:772][318]LogInit: FAudioDevice initialized.
+[2022.03.04-07.36.58:772][318]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonExampleMap'.
+[2022.03.04-07.36.58:781][318]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.04-07.36.58:782][318]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.04-14.36.58
+[2022.03.04-07.36.58:783][318]LogWorld: Bringing up level for play took: 0.000904
+[2022.03.04-07.36.58:783][318]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.03.04-07.36.58:784][318]PIE: Server logged in
+[2022.03.04-07.36.58:784][318]PIE: Play in editor total start time 0.114 seconds.
+[2022.03.04-07.37.02:586][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.37.02:586][768]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.37.02:586][768]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.37.02:586][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.37.02:598][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.04-07.37.02:604][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.37.02:619][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.37.02:619][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.37.02:620][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.37.02:637][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.03.04-07.37.02:675][769]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.03.04-07.37.03:770][888]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Spawner_BP59BE9B3443C47B72B746B88A4EFF82FC.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Spawner_BP.uasset'
+[2022.03.04-07.37.03:781][888]AssetCheck: New page: Asset Save: TurtleSpawner_Spawner_BP
+[2022.03.04-07.37.03:781][888]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.37.05:099][ 31]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Spawner_BP8E2F1F4142AB922CF79090AD4C637B8A.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Spawner_BP.uasset'
+[2022.03.04-07.37.05:109][ 31]AssetCheck: New page: Asset Save: TurtleSpawner_Spawner_BP
+[2022.03.04-07.37.05:109][ 31]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.37.12:724][919]BlueprintLog: New page: Compile TurtleSpawner_Spawner_BP
+[2022.03.04-07.37.12:758][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.03.04-07.37.13:178][954]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Spawner_BPDAD518294F5A9F460A6088A67BAF1240.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Spawner_BP.uasset'
+[2022.03.04-07.37.13:191][954]AssetCheck: New page: Asset Save: TurtleSpawner_Spawner_BP
+[2022.03.04-07.37.13:191][954]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.37.16:881][382]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.37.16:881][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.38.02:464][723]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP3FEAB4D0428B4BE83F99D8AE45BC4DF2.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.38.02:473][723]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.38.02:473][723]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.38.06:780][219]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BPE9391AE64162BD3C05DC949A83F3FB48.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.38.06:789][219]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.38.06:789][219]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.38.37:119][833]BlueprintLog: New page: Compile TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.38.37:151][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.03.04-07.38.37:625][876]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP68E0D51A4F06CE019FA038B130AAE534.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.38.37:638][876]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.38.37:638][876]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.38.38:516][975]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.04-07.38.38:519][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.04-07.38.38:519][975]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2022, 21:38:38)
+[2022.03.04-07.38.38:541][975]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.38.38:543][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002282s)
+[2022.03.04-07.38.38:544][975]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.04-07.38.38:544][975]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2022.03.04-07.38.38:544][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.002993s)
+[2022.03.04-07.38.38:560][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.03.04-07.38.38:561][975]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.03.04-07.38.38:561][975]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.04-07.38.38:561][975]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.04-07.38.38:561][975]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.04-07.38.38:561][975]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.04-07.38.38:561][975]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.04-07.38.38:561][975]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.04-07.38.38:561][975]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.04-07.38.38:561][975]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.04-07.38.38:562][975]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.04-07.38.38:562][975]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.04-07.38.38:564][975]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.04-07.38.38:564][975]LogAudioMixer: Display: 1: FrontRight
+[2022.03.04-07.38.38:578][975]LogAudioMixer: Display: Using Audio Device Наушники (2- Xonar SoundCard)
+[2022.03.04-07.38.38:578][975]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.04-07.38.38:579][975]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.04-07.38.38:579][975]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.04-07.38.38:579][975]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.04-07.38.38:579][975]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.04-07.38.38:579][975]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.04-07.38.38:589][975]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.04-07.38.38:589][975]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.04-07.38.38:589][975]LogInit: FAudioDevice initialized.
+[2022.03.04-07.38.38:589][975]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonExampleMap'.
+[2022.03.04-07.38.38:598][975]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.04-07.38.38:600][975]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.04-14.38.38
+[2022.03.04-07.38.38:600][975]LogWorld: Bringing up level for play took: 0.000955
+[2022.03.04-07.38.38:600][975]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.03.04-07.38.38:601][975]PIE: Server logged in
+[2022.03.04-07.38.38:602][975]PIE: Play in editor total start time 0.083 seconds.
+[2022.03.04-07.38.47:217][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.38.47:217][  3]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.38.47:217][  3]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.38.47:218][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.38.47:222][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.04-07.38.47:228][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.38.47:242][  3]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.04-07.38.47:242][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.38.47:243][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.38.47:254][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.38.47:257][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.03.04-07.38.47:289][  4]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.03.04-07.38.48:144][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.03.04-07.38.48:153][ 89]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMap567AC269465358A99D98148AB5D056EC.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.04-07.38.48:413][ 89]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMap_BuiltDataEA9A88014FC1E3349B38A1BD441C64E5.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.04-07.38.48:421][ 89]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-07.38.48:421][ 89]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.04-07.38.48:421][ 89]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.04-07.42.46:668][963]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.04-07.42.46:668][963]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.04-07.42.48:215][101]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP1A2EDF224A70325DE6E74C9D757ED811.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.42.48:228][101]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.42.48:228][101]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.42.52:552][601]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.04-07.42.52:552][601]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.04-07.43.19:189][698]LogMaterial: Display: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2022.03.04-07.43.19:190][698]LogMaterial: Warning: [AssetLog] C:\Users\PC1\Documents\GitHub\FNTASTIC_EntryTask2\FNTASTIC_EntryTask2\TurtleSpawners\TurtleSpawners\Content\MobileStarterContent\Particles\Materials\M_Fire_SubUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.04-07.43.19:190][698]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.04-07.43.19:190][698]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.03.04-07.44.18:426][686]LogEditorViewport: Clicking on Actor (LMB): TurtleSpawner_Spawner_BP_C (TurtleSpawner_Spawner_BP)
+[2022.03.04-07.44.20:049][871]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.44.24:670][370]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.44.24:670][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.44.38:718][ 21]BlueprintLog: New page: Compile TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.44.38:750][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.03.04-07.44.39:206][ 60]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP0F8B1A044100758BE9307A911C2CF464.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.44.39:215][ 60]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.44.39:215][ 60]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.44.40:131][166]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.04-07.44.40:134][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.04-07.44.40:134][166]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2022, 21:44:40)
+[2022.03.04-07.44.40:156][166]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.44.40:159][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002472s)
+[2022.03.04-07.44.40:159][166]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.04-07.44.40:160][166]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2022.03.04-07.44.40:160][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.003218s)
+[2022.03.04-07.44.40:177][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.03.04-07.44.40:178][166]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.03.04-07.44.40:178][166]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.04-07.44.40:178][166]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.04-07.44.40:178][166]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.04-07.44.40:178][166]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.04-07.44.40:178][166]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.04-07.44.40:178][166]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.04-07.44.40:178][166]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.04-07.44.40:178][166]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.04-07.44.40:178][166]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.04-07.44.40:178][166]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.04-07.44.40:181][166]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.04-07.44.40:181][166]LogAudioMixer: Display: 1: FrontRight
+[2022.03.04-07.44.40:195][166]LogAudioMixer: Display: Using Audio Device Наушники (2- Xonar SoundCard)
+[2022.03.04-07.44.40:195][166]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.04-07.44.40:195][166]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.04-07.44.40:195][166]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.04-07.44.40:195][166]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.04-07.44.40:195][166]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.04-07.44.40:195][166]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.04-07.44.40:206][166]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.04-07.44.40:207][166]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.04-07.44.40:207][166]LogInit: FAudioDevice initialized.
+[2022.03.04-07.44.40:207][166]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonExampleMap'.
+[2022.03.04-07.44.40:214][166]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.04-07.44.40:215][166]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.04-14.44.40
+[2022.03.04-07.44.40:215][166]LogWorld: Bringing up level for play took: 0.001063
+[2022.03.04-07.44.40:216][166]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.03.04-07.44.40:217][166]PIE: Server logged in
+[2022.03.04-07.44.40:218][166]PIE: Play in editor total start time 0.084 seconds.
+[2022.03.04-07.44.48:693][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.44.48:693][174]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.44.48:693][174]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.44.48:694][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.44.48:703][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.04-07.44.48:709][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.44.48:724][174]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.04-07.44.48:724][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.44.48:725][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.44.48:736][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.44.48:739][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.03.04-07.44.48:773][175]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.03.04-07.44.49:385][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.03.04-07.44.49:393][234]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMap2BDE92814B45D83676FE1583F72B0B66.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.04-07.44.49:658][234]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMap_BuiltDataA7EF66F9483261C843BDAA82AB130DC8.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.04-07.44.49:666][234]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-07.44.49:666][234]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.04-07.44.49:666][234]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.04-07.45.44:098][647]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP70B0DC214BA3C8CE3525AA8728CC38FF.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.45.44:112][647]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.45.44:112][647]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.45.44:825][727]BlueprintLog: New page: Compile TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.45.44:855][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.03.04-07.45.45:281][763]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP860933E3426FAE95E13AAAB448A36F30.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.45.45:291][763]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.45.45:291][763]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.45.48:794][175]LogEditorViewport: Clicking on Actor (LMB): TurtleSpawner_Spawner_BP_C (TurtleSpawner_Spawner_BP)
+[2022.03.04-07.45.49:697][269]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.45.55:305][898]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Spawner_BPB8F7E92F4BB95233670E308B56DE4188.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Spawner_BP.uasset'
+[2022.03.04-07.45.55:314][898]AssetCheck: New page: Asset Save: TurtleSpawner_Spawner_BP
+[2022.03.04-07.45.55:314][898]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.46.04:081][939]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.46.04:081][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.46.31:587][119]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP0DD0E6904687E00F43C8069453DC9CB8.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.46.31:599][119]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.46.31:599][119]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.46.38:966][959]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP69C2F5A54F5656F4ED25D890DA6A9101.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.46.38:976][959]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.46.38:976][959]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.47.12:415][906]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BPEBA25A6947886FC107974E974D4B821B.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.47.12:425][906]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.47.12:425][906]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.47.13:327][  6]BlueprintLog: New page: Compile TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.47.13:360][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.03.04-07.47.13:909][ 56]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP7B93A9EE41459617F9FEF7ACF7EBBADA.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.47.13:920][ 56]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.47.13:920][ 56]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.47.26:065][439]BlueprintLog: New page: Compile TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.47.26:094][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.03.04-07.47.26:524][476]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP4378145D4E349EC08B11E6BA0DA9A2DC.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.47.26:535][476]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.47.26:535][476]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.47.27:262][557]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.04-07.47.27:266][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.04-07.47.27:266][557]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2022, 21:47:27)
+[2022.03.04-07.47.27:300][557]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.47.27:303][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002613s)
+[2022.03.04-07.47.27:303][557]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.04-07.47.27:304][557]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2022.03.04-07.47.27:304][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.003358s)
+[2022.03.04-07.47.27:321][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.03.04-07.47.27:322][557]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.03.04-07.47.27:322][557]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.04-07.47.27:322][557]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.04-07.47.27:322][557]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.04-07.47.27:322][557]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.04-07.47.27:322][557]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.04-07.47.27:322][557]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.04-07.47.27:322][557]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.04-07.47.27:322][557]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.04-07.47.27:322][557]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.04-07.47.27:322][557]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.04-07.47.27:325][557]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.04-07.47.27:325][557]LogAudioMixer: Display: 1: FrontRight
+[2022.03.04-07.47.27:339][557]LogAudioMixer: Display: Using Audio Device Наушники (2- Xonar SoundCard)
+[2022.03.04-07.47.27:339][557]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.04-07.47.27:339][557]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.04-07.47.27:339][557]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.04-07.47.27:340][557]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.04-07.47.27:340][557]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.04-07.47.27:340][557]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.04-07.47.27:350][557]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.04-07.47.27:350][557]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.04-07.47.27:350][557]LogInit: FAudioDevice initialized.
+[2022.03.04-07.47.27:350][557]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstPersonExampleMap'.
+[2022.03.04-07.47.27:357][557]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.04-07.47.27:358][557]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.04-14.47.27
+[2022.03.04-07.47.27:358][557]LogWorld: Bringing up level for play took: 0.000925
+[2022.03.04-07.47.27:358][557]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.03.04-07.47.27:359][557]PIE: Server logged in
+[2022.03.04-07.47.27:360][557]PIE: Play in editor total start time 0.094 seconds.
+[2022.03.04-07.47.36:263][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.47.36:263][620]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.47.36:263][620]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.47.36:263][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.47.36:268][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.04-07.47.36:275][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.47.36:290][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.47.36:290][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.47.36:291][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.47.36:306][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.03.04-07.47.36:343][621]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.03.04-07.47.58:811][235]BlueprintLog: New page: Compile TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.47.58:840][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.03.04-07.47.59:331][278]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BPC3E068E5438F5928B0F2FEB4B104AADE.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.47.59:346][278]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.47.59:346][278]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.47.59:954][347]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.04-07.47.59:957][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.04-07.47.59:957][347]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2022, 21:47:59)
+[2022.03.04-07.47.59:994][347]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.47.59:997][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002327s)
+[2022.03.04-07.47.59:997][347]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.04-07.47.59:997][347]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2022.03.04-07.47.59:997][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.003031s)
+[2022.03.04-07.48.00:015][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.03.04-07.48.00:016][347]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.03.04-07.48.00:016][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.04-07.48.00:016][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.04-07.48.00:016][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.04-07.48.00:016][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.04-07.48.00:016][347]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.04-07.48.00:016][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.04-07.48.00:016][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.04-07.48.00:016][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.04-07.48.00:016][347]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.04-07.48.00:016][347]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.04-07.48.00:019][347]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.04-07.48.00:019][347]LogAudioMixer: Display: 1: FrontRight
+[2022.03.04-07.48.00:033][347]LogAudioMixer: Display: Using Audio Device Наушники (2- Xonar SoundCard)
+[2022.03.04-07.48.00:033][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.04-07.48.00:033][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.04-07.48.00:033][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.04-07.48.00:033][347]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.04-07.48.00:033][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.04-07.48.00:033][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.04-07.48.00:044][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.04-07.48.00:044][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.04-07.48.00:044][347]LogInit: FAudioDevice initialized.
+[2022.03.04-07.48.00:044][347]LogAudio: Display: Audio Device (ID: 17) registered with world 'FirstPersonExampleMap'.
+[2022.03.04-07.48.00:048][347]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.04-07.48.00:049][347]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.04-14.48.00
+[2022.03.04-07.48.00:049][347]LogWorld: Bringing up level for play took: 0.000888
+[2022.03.04-07.48.00:049][347]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.03.04-07.48.00:051][347]PIE: Server logged in
+[2022.03.04-07.48.00:051][347]PIE: Play in editor total start time 0.094 seconds.
+[2022.03.04-07.48.10:102][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.48.10:102][543]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.48.10:102][543]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.48.10:102][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.48.10:110][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.04-07.48.10:116][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.48.10:131][543]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.04-07.48.10:132][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.48.10:132][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.48.10:144][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.48.10:146][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.03.04-07.48.10:181][544]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.03.04-07.48.51:812][435]BlueprintLog: New page: Compile TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.48.51:841][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.03.04-07.48.52:265][470]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP9C30905C490B3AC98D8CB0A5775F98BD.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.48.52:276][470]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.48.52:276][470]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.51.50:098][104]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.03.04-07.51.50:107][104]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMap6063010747579B7AB3ECB1A889A31ED4.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.04-07.51.50:370][104]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMap_BuiltData853D6E4A490A335518B56685D2D15BA7.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.04-07.51.50:378][104]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-07.51.50:378][104]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.04-07.51.50:378][104]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.04-07.52.07:147][ 89]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP27196BDA4F54C59573AB598A45B6585F.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.52.07:166][ 89]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.52.07:166][ 89]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.52.07:539][132]BlueprintLog: New page: Compile TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.52.07:569][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.03.04-07.52.09:270][314]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP7A684E074198D4FF5D335CA8E3760314.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.52.09:282][314]AssetCheck: New page: Asset Save: TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.52.09:282][314]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.52.09:509][339]BlueprintLog: New page: Compile TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.52.09:538][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.03.04-07.52.10:710][475]LogSlate: Window 'TurtleSpawner_TurtleAI_BP' being destroyed
+[2022.03.04-07.52.10:717][475]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.04-07.52.10:717][475]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.52.10:717][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.52.12:517][685]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.04-07.52.12:520][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.04-07.52.12:520][685]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2022, 21:52:12)
+[2022.03.04-07.52.12:520][685]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.52.12:523][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002314s)
+[2022.03.04-07.52.12:523][685]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.04-07.52.12:523][685]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2022.03.04-07.52.12:523][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.003069s)
+[2022.03.04-07.52.12:556][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.03.04-07.52.12:558][685]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.03.04-07.52.12:558][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.04-07.52.12:558][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.04-07.52.12:558][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.04-07.52.12:558][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.04-07.52.12:558][685]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.04-07.52.12:558][685]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.04-07.52.12:558][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.04-07.52.12:558][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.04-07.52.12:558][685]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.04-07.52.12:558][685]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.04-07.52.12:561][685]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.04-07.52.12:561][685]LogAudioMixer: Display: 1: FrontRight
+[2022.03.04-07.52.12:575][685]LogAudioMixer: Display: Using Audio Device Наушники (2- Xonar SoundCard)
+[2022.03.04-07.52.12:575][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.04-07.52.12:575][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.04-07.52.12:575][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.04-07.52.12:576][685]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.04-07.52.12:576][685]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.04-07.52.12:576][685]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.04-07.52.12:586][685]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.04-07.52.12:586][685]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.04-07.52.12:586][685]LogInit: FAudioDevice initialized.
+[2022.03.04-07.52.12:586][685]LogAudio: Display: Audio Device (ID: 18) registered with world 'FirstPersonExampleMap'.
+[2022.03.04-07.52.12:591][685]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.04-07.52.12:592][685]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.04-14.52.12
+[2022.03.04-07.52.12:592][685]LogWorld: Bringing up level for play took: 0.000922
+[2022.03.04-07.52.12:592][685]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.03.04-07.52.12:593][685]PIE: Server logged in
+[2022.03.04-07.52.12:594][685]PIE: Play in editor total start time 0.074 seconds.
+[2022.03.04-07.52.21:395][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.52.21:395][735]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.52.21:395][735]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.52.21:395][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.52.21:401][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.04-07.52.21:407][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.52.21:419][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.52.21:419][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.52.21:419][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.52.21:450][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.03.04-07.52.21:479][736]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.03.04-07.53.34:133][  8]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.04-07.53.34:134][  8]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.04-07.53.34:221][  8]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.04-07.53.34:225][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.04-07.53.34:225][  8]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2022, 21:53:34)
+[2022.03.04-07.53.34:225][  8]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.53.34:227][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002238s)
+[2022.03.04-07.53.34:228][  8]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.04-07.53.34:228][  8]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2022.03.04-07.53.34:228][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.002972s)
+[2022.03.04-07.53.34:239][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.03.04-07.53.34:242][  8]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.03.04-07.53.34:242][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.04-07.53.34:242][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.04-07.53.34:242][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.04-07.53.34:242][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.04-07.53.34:242][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.04-07.53.34:242][  8]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.04-07.53.34:242][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.04-07.53.34:242][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.04-07.53.34:242][  8]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.04-07.53.34:242][  8]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.04-07.53.34:245][  8]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.04-07.53.34:245][  8]LogAudioMixer: Display: 1: FrontRight
+[2022.03.04-07.53.34:259][  8]LogAudioMixer: Display: Using Audio Device Наушники (2- Xonar SoundCard)
+[2022.03.04-07.53.34:259][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.04-07.53.34:259][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.04-07.53.34:259][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.04-07.53.34:259][  8]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.04-07.53.34:259][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.04-07.53.34:259][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.04-07.53.34:269][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.04-07.53.34:269][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.04-07.53.34:269][  8]LogInit: FAudioDevice initialized.
+[2022.03.04-07.53.34:269][  8]LogAudio: Display: Audio Device (ID: 19) registered with world 'FirstPersonExampleMap'.
+[2022.03.04-07.53.34:275][  8]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.04-07.53.34:277][  8]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.04-14.53.34
+[2022.03.04-07.53.34:277][  8]LogWorld: Bringing up level for play took: 0.000876
+[2022.03.04-07.53.34:277][  8]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.03.04-07.53.34:278][  8]PIE: Server logged in
+[2022.03.04-07.53.34:278][  8]PIE: Play in editor total start time 0.054 seconds.
+[2022.03.04-07.53.51:120][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.53.51:120][ 22]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.53.51:120][ 22]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.53.51:120][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.53.51:127][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.04-07.53.51:132][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.53.51:141][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.53.51:141][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.53.51:142][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.53.51:155][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.03.04-07.53.51:207][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.03.04-07.53.51:791][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.04-07.53.51:794][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.04-07.53.51:794][ 94]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2022, 21:53:51)
+[2022.03.04-07.53.51:819][ 94]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.53.51:822][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002390s)
+[2022.03.04-07.53.51:822][ 94]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.04-07.53.51:822][ 94]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2022.03.04-07.53.51:822][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.003095s)
+[2022.03.04-07.53.51:833][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.03.04-07.53.51:833][ 94]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.03.04-07.53.51:833][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.04-07.53.51:833][ 94]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.04-07.53.51:833][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.04-07.53.51:833][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.04-07.53.51:833][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.04-07.53.51:833][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.04-07.53.51:833][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.04-07.53.51:833][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.04-07.53.51:834][ 94]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.04-07.53.51:834][ 94]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.04-07.53.51:836][ 94]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.04-07.53.51:836][ 94]LogAudioMixer: Display: 1: FrontRight
+[2022.03.04-07.53.51:850][ 94]LogAudioMixer: Display: Using Audio Device Наушники (2- Xonar SoundCard)
+[2022.03.04-07.53.51:851][ 94]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.04-07.53.51:851][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.04-07.53.51:851][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.04-07.53.51:851][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.04-07.53.51:851][ 94]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.04-07.53.51:851][ 94]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.04-07.53.51:861][ 94]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.04-07.53.51:861][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.04-07.53.51:861][ 94]LogInit: FAudioDevice initialized.
+[2022.03.04-07.53.51:861][ 94]LogAudio: Display: Audio Device (ID: 20) registered with world 'FirstPersonExampleMap'.
+[2022.03.04-07.53.51:870][ 94]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.04-07.53.51:871][ 94]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.04-14.53.51
+[2022.03.04-07.53.51:871][ 94]LogWorld: Bringing up level for play took: 0.000893
+[2022.03.04-07.53.51:871][ 94]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.03.04-07.53.51:872][ 94]PIE: Server logged in
+[2022.03.04-07.53.51:873][ 94]PIE: Play in editor total start time 0.079 seconds.
+[2022.03.04-07.54.06:947][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.54.06:947][896]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.54.06:947][896]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.54.06:947][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.54.06:951][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.04-07.54.06:957][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.54.06:966][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.54.06:966][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.54.06:967][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.54.06:981][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.03.04-07.54.07:010][897]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.03.04-07.54.12:375][532]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.54.48:259][583]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Spawner_BPA95B9FF846BB888023B4BD9C935B6260.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Spawner_BP.uasset'
+[2022.03.04-07.54.48:267][583]AssetCheck: New page: Asset Save: TurtleSpawner_Spawner_BP
+[2022.03.04-07.54.48:267][583]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.54.49:552][726]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Spawner_BP8EC5D29A4EC5592A89B0C5AD0BB9A4A3.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Spawner_BP.uasset'
+[2022.03.04-07.54.49:559][726]AssetCheck: New page: Asset Save: TurtleSpawner_Spawner_BP
+[2022.03.04-07.54.49:559][726]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.55.40:325][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.03.04-07.55.40:336][803]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMap31CBB02E4A9700267C6C93A1BD8AFE9B.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.04-07.55.40:594][803]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMap_BuiltData868759C846256927A4154081416F873F.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.04-07.55.40:601][803]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-07.55.40:601][803]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.04-07.55.40:601][803]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.04-07.55.41:936][962]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.04-07.55.41:940][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.04-07.55.41:941][962]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2022, 21:55:41)
+[2022.03.04-07.55.41:982][962]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.55.41:984][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002352s)
+[2022.03.04-07.55.41:985][962]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.04-07.55.41:985][962]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2022.03.04-07.55.41:985][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.003085s)
+[2022.03.04-07.55.41:997][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.03.04-07.55.41:998][962]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.03.04-07.55.41:998][962]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.04-07.55.41:998][962]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.04-07.55.41:998][962]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.04-07.55.41:998][962]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.04-07.55.41:998][962]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.04-07.55.41:998][962]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.04-07.55.41:998][962]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.04-07.55.41:998][962]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.04-07.55.41:998][962]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.04-07.55.41:998][962]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.04-07.55.42:001][962]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.04-07.55.42:001][962]LogAudioMixer: Display: 1: FrontRight
+[2022.03.04-07.55.42:014][962]LogAudioMixer: Display: Using Audio Device Наушники (2- Xonar SoundCard)
+[2022.03.04-07.55.42:015][962]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.04-07.55.42:015][962]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.04-07.55.42:015][962]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.04-07.55.42:015][962]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.04-07.55.42:015][962]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.04-07.55.42:015][962]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.04-07.55.42:025][962]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.04-07.55.42:025][962]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.04-07.55.42:025][962]LogInit: FAudioDevice initialized.
+[2022.03.04-07.55.42:025][962]LogAudio: Display: Audio Device (ID: 21) registered with world 'FirstPersonExampleMap'.
+[2022.03.04-07.55.42:028][962]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.04-07.55.42:030][962]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.04-14.55.42
+[2022.03.04-07.55.42:030][962]LogWorld: Bringing up level for play took: 0.000870
+[2022.03.04-07.55.42:030][962]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.03.04-07.55.42:031][962]PIE: Server logged in
+[2022.03.04-07.55.42:031][962]PIE: Play in editor total start time 0.091 seconds.
+[2022.03.04-07.55.50:659][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.55.50:659][990]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.04-07.55.50:659][990]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-07.55.50:659][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.55.50:668][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.04-07.55.50:673][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-07.55.50:684][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-07.55.50:685][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.55.50:685][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-07.55.50:699][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.03.04-07.55.50:740][991]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.03.04-07.55.57:223][663]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.04-07.55.57:239][663]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.04-07.55.58:489][810]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.04-07.55.58:489][810]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.04-07.55.59:924][982]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2022.03.04-07.55.59:924][982]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.04-07.56.05:175][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Button_BP.TurtleSpawner_Button_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Button_BP.PackageMetaData'
+[2022.03.04-07.56.05:175][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Button_BP.TurtleSpawner_Button_BP_C' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Button_BP.PackageMetaData'
+[2022.03.04-07.56.05:176][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Button_BP.SKEL_TurtleSpawner_Button_BP_C' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Button_BP.PackageMetaData'
+[2022.03.04-07.56.05:176][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Button_BP.TurtleSpawner_Button_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Button_BP.PackageMetaData'
+[2022.03.04-07.56.05:176][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Button_BP.SKEL_TurtleSpawner_Button_BP_C:Activate' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Button_BP.PackageMetaData'
+[2022.03.04-07.56.05:176][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Button_BP.SKEL_TurtleSpawner_Button_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Button_BP.PackageMetaData'
+[2022.03.04-07.56.05:176][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Button_BP.SKEL_TurtleSpawner_Button_BP_C:UserConstructionScript' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Button_BP.PackageMetaData'
+[2022.03.04-07.56.05:177][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Loc_BP.TurtleSpawner_Loc_BP_C' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Loc_BP.PackageMetaData'
+[2022.03.04-07.56.05:177][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Loc_BP.TurtleSpawner_Loc_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Loc_BP.PackageMetaData'
+[2022.03.04-07.56.05:177][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Loc_BP.SKEL_TurtleSpawner_Loc_BP_C:UserConstructionScript' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Loc_BP.PackageMetaData'
+[2022.03.04-07.56.05:177][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Loc_BP.SKEL_TurtleSpawner_Loc_BP_C' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Loc_BP.PackageMetaData'
+[2022.03.04-07.56.05:179][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Spawner_BP.PackageMetaData'
+[2022.03.04-07.56.05:179][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP_C' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Spawner_BP.PackageMetaData'
+[2022.03.04-07.56.05:179][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Spawner_BP.SKEL_TurtleSpawner_Spawner_BP_C' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Spawner_BP.PackageMetaData'
+[2022.03.04-07.56.05:179][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Spawner_BP.SKEL_TurtleSpawner_Spawner_BP_C:UserConstructionScript' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Spawner_BP.PackageMetaData'
+[2022.03.04-07.56.05:179][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_Spawner_BP.SKEL_TurtleSpawner_Spawner_BP_C:Spawn' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_Spawner_BP.PackageMetaData'
+[2022.03.04-07.56.05:180][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.PackageMetaData'
+[2022.03.04-07.56.05:180][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP_C:OnFail_59A1FF1F4DA08D29F44DE395C2AA7429' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.PackageMetaData'
+[2022.03.04-07.56.05:180][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP_C' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.PackageMetaData'
+[2022.03.04-07.56.05:180][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP_C:OnSuccess_59A1FF1F4DA08D29F44DE395C2AA7429' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.PackageMetaData'
+[2022.03.04-07.56.05:180][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.PackageMetaData'
+[2022.03.04-07.56.05:180][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_TurtleAI_BP.SKEL_TurtleSpawner_TurtleAI_BP_C:UserConstructionScript' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.PackageMetaData'
+[2022.03.04-07.56.05:180][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_TurtleAI_BP.SKEL_TurtleSpawner_TurtleAI_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.PackageMetaData'
+[2022.03.04-07.56.05:180][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_TurtleAI_BP.SKEL_TurtleSpawner_TurtleAI_BP_C' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.PackageMetaData'
+[2022.03.04-07.56.05:180][466]LogMetaData: Removing '/Game/TurtleSpawner/Blueprints/TurtleSpawner_TurtleAI_BP.SKEL_TurtleSpawner_TurtleAI_BP_C:Move' ref from Metadata '/Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.PackageMetaData'
+[2022.03.04-07.56.05:215][466]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Button_BP06B3306D4808CFD2EE0AEEAB70B1A5AA.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/Blueprints/TurtleSpawner_Button_BP.uasset'
+[2022.03.04-07.56.05:315][466]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Button_BPAE6539184EE5E612F40F44B370D4ABD2.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Button_BP.uasset'
+[2022.03.04-07.56.05:318][466]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Loc_BP046FB25646A18708222D89B1789981E7.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/Blueprints/TurtleSpawner_Loc_BP.uasset'
+[2022.03.04-07.56.05:410][466]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Loc_BP70B46D384FB848D0D35F59B7535398FF.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Loc_BP.uasset'
+[2022.03.04-07.56.05:425][466]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Spawner_BP8A39D049490973D8CA3424BF20AE17F3.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/Blueprints/TurtleSpawner_Spawner_BP.uasset'
+[2022.03.04-07.56.05:526][466]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Spawner_BP8947A8F348DD0C5BF4C777B7CFC0A908.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Spawner_BP.uasset'
+[2022.03.04-07.56.05:545][466]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP2AEBEC354CE3CBFBFCBE6284872E5A0D.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/Blueprints/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.56.05:651][466]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP9D01FC7C4E0B1BDC2CEA41A789132E11.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.56.06:358][466]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-07.56.06:358][466]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/Blueprints/TurtleSpawner_Loc_BP.TurtleSpawner_Loc_BP
+[2022.03.04-07.56.06:358][466]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/Blueprints/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.56.06:359][466]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/Blueprints/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.56.06:359][466]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/Blueprints/TurtleSpawner_Button_BP.TurtleSpawner_Button_BP
+[2022.03.04-07.56.06:359][466]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.56.06:359][466]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.Default__TurtleSpawner_TurtleAI_BP_C
+[2022.03.04-07.56.06:359][466]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP_C
+[2022.03.04-07.56.06:359][466]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.56.06:359][466]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.Default__TurtleSpawner_Spawner_BP_C
+[2022.03.04-07.56.06:359][466]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP_C
+[2022.03.04-07.56.06:359][466]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Loc_BP.TurtleSpawner_Loc_BP
+[2022.03.04-07.56.06:359][466]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Loc_BP.Default__TurtleSpawner_Loc_BP_C
+[2022.03.04-07.56.06:359][466]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Loc_BP.TurtleSpawner_Loc_BP_C
+[2022.03.04-07.56.06:359][466]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Button_BP.TurtleSpawner_Button_BP
+[2022.03.04-07.56.06:359][466]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Button_BP.Default__TurtleSpawner_Button_BP_C
+[2022.03.04-07.56.06:359][466]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Button_BP.TurtleSpawner_Button_BP_C
+[2022.03.04-07.56.08:537][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.03.04-07.56.08:550][688]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMapCBC64A564593A882CD7973A3960D96F9.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.04-07.56.08:821][688]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMap_BuiltData382138044BAE161816651C87969B67D6.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.04-07.56.08:828][688]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-07.56.08:829][688]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.04-07.56.08:829][688]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:031][ 97]SourceControl: fatal: D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/!/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2'
+[2022.03.04-07.56.13:315][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.04-07.56.13:323][ 97]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMap6E9BDA8945A0F58F0FC47784A6E747FC.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.04-07.56.13:330][ 97]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.027
+[2022.03.04-07.56.13:490][ 97]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/FirstPersonExampleMap_BuiltData6BEF8EFA4C38E2970CE344925F4A1F04.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.04-07.56.13:502][ 97]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/P_Explosion9201C6974FE0BF5DFE9EDF83DACA5C9D.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/MobileStarterContent/Particles/P_Explosion.uasset'
+[2022.03.04-07.56.13:504][ 97]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Button_BP14AA003B4CE40F3BD67E59B8C21A846A.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Button_BP.uasset'
+[2022.03.04-07.56.13:506][ 97]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Loc_BP3FBBA5194AE8B9262663359A4BBDAC3B.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Loc_BP.uasset'
+[2022.03.04-07.56.13:507][ 97]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Spawner_BP7C8DDBF44D6B2B3C45BDFC99FB65EFC9.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Spawner_BP.uasset'
+[2022.03.04-07.56.13:509][ 97]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BPA8C745AA4B84B0AB0BCC28AC6E6F4CE6.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.56.13:518][ 97]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Button_BP7BBEB89C438E82E3FC883FAFB8277358.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/Blueprints/TurtleSpawner_Button_BP.uasset'
+[2022.03.04-07.56.13:520][ 97]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Loc_BPD3310EA2407202C749C572B9D6E75FD7.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/Blueprints/TurtleSpawner_Loc_BP.uasset'
+[2022.03.04-07.56.13:526][ 97]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_Spawner_BPF9526CDA4D861684E2317B83742123EF.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/Blueprints/TurtleSpawner_Spawner_BP.uasset'
+[2022.03.04-07.56.13:536][ 97]LogSavePackage: Moving 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Saved/TurtleSpawner_TurtleAI_BP76CF3270423360A03CCB1BB98C3C2786.tmp' to 'C:/Users/PC1/Documents/GitHub/FNTASTIC_EntryTask2/FNTASTIC_EntryTask2/TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/Blueprints/TurtleSpawner_TurtleAI_BP.uasset'
+[2022.03.04-07.56.25:175][ 97]LogSlate: Window 'Submit Files' being destroyed
+[2022.03.04-07.56.25:979][ 97]LogSourceControl: commit successful: [main 02e1d53] 0.2
+[2022.03.04-07.56.26:111][ 97]SourceControl: [main 02e1d53] 0.2
+[2022.03.04-07.56.26:111][ 97]SourceControl:  11 files changed, 0 insertions(+), 0 deletions(-)
+[2022.03.04-07.56.26:111][ 97]SourceControl:  create mode 100644 TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/Blueprints/TurtleSpawner_Button_BP.uasset
+[2022.03.04-07.56.26:111][ 97]SourceControl:  copy TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/{ => Blueprints}/TurtleSpawner_Loc_BP.uasset (61%)
+[2022.03.04-07.56.26:111][ 97]SourceControl:  copy TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/{ => Blueprints}/TurtleSpawner_Spawner_BP.uasset (66%)
+[2022.03.04-07.56.26:111][ 97]SourceControl:  copy TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/{ => Blueprints}/TurtleSpawner_TurtleAI_BP.uasset (53%)
+[2022.03.04-07.56.26:111][ 97]SourceControl:  rewrite TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Button_BP.uasset (99%)
+[2022.03.04-07.56.26:111][ 97]SourceControl:  rewrite TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Loc_BP.uasset (99%)
+[2022.03.04-07.56.26:111][ 97]SourceControl:  rewrite TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_Spawner_BP.uasset (99%)
+[2022.03.04-07.56.26:111][ 97]SourceControl:  rewrite TurtleSpawners/TurtleSpawners/Content/TurtleSpawner/TurtleSpawner_TurtleAI_BP.uasset (99%)
+[2022.03.04-07.56.26:116][ 97]SourceControl: Commited [main 02e1d53] 0.2.
+[2022.03.04-07.56.26:139][ 98]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/Blueprints/TurtleSpawner_Loc_BP.TurtleSpawner_Loc_BP
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/Blueprints/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/Blueprints/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating Blueprint /Game/TurtleSpawner/Blueprints/TurtleSpawner_Button_BP.TurtleSpawner_Button_BP
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating ParticleSystem /Game/MobileStarterContent/Particles/P_Explosion.P_Explosion
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.Default__TurtleSpawner_TurtleAI_BP_C
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_TurtleAI_BP.TurtleSpawner_TurtleAI_BP_C
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.Default__TurtleSpawner_Spawner_BP_C
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Spawner_BP.TurtleSpawner_Spawner_BP_C
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Loc_BP.TurtleSpawner_Loc_BP
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Loc_BP.Default__TurtleSpawner_Loc_BP_C
+[2022.03.04-07.56.26:139][ 98]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Loc_BP.TurtleSpawner_Loc_BP_C
+[2022.03.04-07.56.26:140][ 98]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Button_BP.TurtleSpawner_Button_BP
+[2022.03.04-07.56.26:140][ 98]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Button_BP.Default__TurtleSpawner_Button_BP_C
+[2022.03.04-07.56.26:140][ 98]LogContentValidation: Display: Validating ObjectRedirector /Game/TurtleSpawner/TurtleSpawner_Button_BP.TurtleSpawner_Button_BP_C
